@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikesh25s
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning css.
+- 🌱 I’m currently learning php.
 - 💞️ I’m looking to collaborate with companies.
 
 
