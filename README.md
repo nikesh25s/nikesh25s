@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikesh25s
-- 👀 I’m interested in full stack development.
-- 🌱 I know html css javascript for frontend and for backend i know php mysql.
+- 👀 I’m a full stack developer.
+- 🌱
 - 💞️ I’m looking to collaborate with companies.
 - 
 
